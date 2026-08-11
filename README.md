@@ -2,13 +2,7 @@
 
 **SOC Analyst @ Oplium · Security & AI Engineering**
 
-SOC analyst with hands-on experience in alert triage, incident investigation and response across a multi-client environment. I combine a development background with Blue Team operations — I investigate threats and build the tools that speed up that work. Currently studying Computer Science and developing projects at the intersection of security and generative AI.
-
-- 🛡️ **SOC N1 @ [Oplium](https://oplium.com.br)** — EDR/SIEM alert triage, incident investigation, n8n automation (6 clients · Jira + SentinelOne + VirusTotal + Hybrid Analysis)
-- 🤖 Building AI-powered SOC automation with **FastAPI, Pydantic AI, LiteLLM, Redis and Langfuse**
-- 🔬 Building **[DermaScan](https://github.com/somoza00/dermascan)** — skin lesion triage app with EfficientNet-B3 (85% val accuracy · 8 classes · ISIC 2019)
-- ⚔️ HTB Academy — Web Penetration Tester Path *(XSS · SQLi · Command Injection · File Upload Attacks)*
-- 🎯 AI Engineering roadmap: LLM Gateway → Eval Framework → Agents → RAG → Fine-tuning
+SOC analyst with hands-on experience in alert triage, incident investigation and response across a multi-client environment. Started as a .NET developer building desktop automation and web integrations, then transitioned into security — combining that development background with Blue Team operations to investigate threats and build the tools that speed up that work. Current focus is on offensive security (pursuing HTB's Web Penetration Tester certification) and AI Engineering projects. Studying Computer Science at IBMR.
 
 ---
 
@@ -37,7 +31,7 @@ SOC analyst with hands-on experience in alert triage, incident investigation and
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Languages & Frontend**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -55,28 +49,6 @@ SOC analyst with hands-on experience in alert triage, incident investigation and
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [threat-intel-summarizer](https://github.com/somoza00/threat-intel-summarizer) | IOC analysis platform — VirusTotal, AbuseIPDB, Shodan, NVD + AI-generated reports | FastAPI · React · TypeScript · Railway/Vercel |
-| [dermascan](https://github.com/somoza00/dermascan) | Skin lesion triage with EfficientNet-B3 · 85% val acc · 8 classes (ISIC 2019) | PyTorch · FastAPI · Vercel |
-| [project-spam-classifier-littleai-a3](https://github.com/somoza00/project-spam-classifier-littleai-a3) | Spam classifier ML project | Python |
-| [htb-command-injection-writeup](https://github.com/somoza00/htb-command-injection-writeup) | HTB Academy writeup — Command Injection module | Markdown |
-
----
-
-## 🎓 Certifications & Learning
-
-- **Hack The Box Academy** — Web Penetration Tester Path *(in progress)*: XSS · SQLi · SQLMap · Command Injection · File Upload Attacks
-- **Google Cloud** — Computing Foundations: Cloud, Infrastructure, Network & Security
-- **Cisco** — Introduction to Cybersecurity
-- **FGV** — Proteção de Dados · Segurança Digital · IA Generativa
-- **Balta.io** — C# · POO · SQL Server · React · TypeScript · IA Generativa · Git & Azure DevOps
-- **Cultura Inglesa** — English (Fluent, concluded 2025)
 
 ---
 
