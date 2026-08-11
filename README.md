@@ -3,9 +3,13 @@
 **SOC Analyst Intern @ Oplium · Security & AI Engineering**
 
 🎓 Computer Science student at IBMR (6th/8th semester) — Rio de Janeiro, Brasil
+
 🥋 Lifelong Brazilian Jiu-Jitsu athlete — driven by challenge on and off the mat
+
 💻 Started as a .NET developer building desktop automation and web integrations
+
 🛡️ Transitioned into security — SOC analyst across a multi-client environment, combining dev background with Blue Team operations
+
 ⚔️ Current focus: offensive security (pursuing HTB's Web Penetration Tester certification) and AI Engineering projects
 
 ---
