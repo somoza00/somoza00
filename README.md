@@ -2,7 +2,7 @@
 
 **SOC Analyst @ Oplium · Security & AI Engineering**
 
-I work at a Brazilian MSSP doing alert triage and threat analysis, while building tools at the intersection of security and AI. Currently studying Computer Science (5th semester) and developing an AI engineering portfolio focused on real-world security applications.
+I work at a Brazilian MSSP doing alert triage and threat analysis, while building tools at the intersection of security and AI. Currently studying Computer Science (6th semester) and developing an AI engineering portfolio focused on real-world security applications.
 
 - 🔭 Building **[DermaScan](https://github.com/somoza00/dermascan)** — skin lesion triage app using EfficientNet-B3 (85% val accuracy)
 - 🌱 Studying offensive security through HTB Academy — currently on **File Upload Attacks**
