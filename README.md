@@ -1,6 +1,6 @@
 # Hey, I'm João Pedro (JP) 👋
 
-**SOC Analyst @ Oplium · Security & AI Engineering**
+**SOC Analyst Intern @ Oplium · Security & AI Engineering**
 
 SOC analyst with hands-on experience in alert triage, incident investigation and response across a multi-client environment. Started as a .NET developer building desktop automation and web integrations, then transitioned into security — combining that development background with Blue Team operations to investigate threats and build the tools that speed up that work. Current focus is on offensive security (pursuing HTB's Web Penetration Tester certification) and AI Engineering projects. Studying Computer Science at IBMR.
 
