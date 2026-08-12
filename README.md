@@ -1,4 +1,4 @@
-# Hey, I'm João Pedro (JP) 👋
+# Hey, I'm João Pedro (JP) 👋🏾
 
 **SOC Analyst Intern @ Oplium · Security & AI Engineering**
 
