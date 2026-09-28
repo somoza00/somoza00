@@ -70,7 +70,3 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=jpfadul23@gmail.com)
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=somoza00&style=for-the-badge&color=blue" alt="profile views"/>
-</p>
