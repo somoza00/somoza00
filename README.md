@@ -16,6 +16,7 @@
 
 ## 🛠️ Tech Stack
 
+![Google SecOps](https://img.shields.io/badge/Google%20SecOps-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![SentinelOne](https://img.shields.io/badge/SentinelOne-6A0DAD?style=for-the-badge&logoColor=white)
 ![Rapid7](https://img.shields.io/badge/Rapid7_InsightIDR-E3001B?style=for-the-badge&logoColor=white)
 ![Guardicore](https://img.shields.io/badge/Akamai_Guardicore-009BDE?style=for-the-badge&logoColor=white)
